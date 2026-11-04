@@ -2405,6 +2405,10 @@
             "libraryName": "extract-zip",
             "asOfVersion": "2.0.0"
         },
+        "facebook-pixel": {
+            "libraryName": "facebook-pixel",
+            "asOfVersion": "0.0.1"
+        },
         "faker": {
             "libraryName": "faker",
             "asOfVersion": "6.6.6"
